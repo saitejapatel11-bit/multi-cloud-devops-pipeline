@@ -1,0 +1,8 @@
+multi-cloud-devops-pipeline/
+│── jenkinsfile
+│── terraform/
+│   ├── aws/
+│   ├── azure/
+│   ├── gcp/
+│── ansible/
+│── README.md
